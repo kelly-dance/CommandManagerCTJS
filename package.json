@@ -1,0 +1,13 @@
+{
+  "name": "ct-command-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "nodemon"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "typescript": "^4.1.5"
+  }
+}
